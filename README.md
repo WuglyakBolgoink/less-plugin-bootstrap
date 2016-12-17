@@ -19,7 +19,7 @@ var lessAutoprefixPlugin = new LessPluginAutoPrefix({
                 'last 3 Safari versions'
             ]
         }),
-        lessBootstrapPlugin = new LessPluginBootstrap();
+        lessBootstrapPlugin3 = new LessPluginBootstrap3();
 
 ...
 
@@ -30,7 +30,7 @@ var lessAutoprefixPlugin = new LessPluginAutoPrefix({
             .pipe(plugins.less({
                 compress: true,
                 plugins: [
-                    lessBootstrapPlugin,
+                    lessBootstrapPlugin3,
                     lessAutoprefixPlugin
                 ]
             }))
