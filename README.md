@@ -1,8 +1,7 @@
 less-plugin-bootstrap3
 ========================
 
-[![license](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/WuglyakBolgoink/less-plugin-bootstrap3/blob/master/LICENSE)
-
+[![Hex.pm](https://img.shields.io/hexpm/l/plug.svg)](https://github.com/WuglyakBolgoink/less-plugin-bootstrap3/blob/master/LICENSE)
 
 [![NPM](https://nodei.co/npm/less-plugin-bootstrap3.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/less-plugin-bootstrap3/)
 
