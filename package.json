@@ -1,45 +1,46 @@
 {
-    "name": "less-plugin-bootstrap3",
-    "version": "0.0.3",
-    "description": "Bootstrap 3 LESS import",
-    "homepage": "https://github.com/WuglyakBolgoink/less-plugin-bootstrap3/",
-    "author": {
-        "name": "Bass Jobsen"
-    },
-    "contributors": [{
-        "name": "Wuglyak Bolgoink",
-        "email": "info@cyberkatze.de"
-    }],
-    "bugs": {
-        "url": "https://github.com/WuglyakBolgoink/less-plugin-bootstrap3/issues"
-    },
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/WuglyakBolgoink/less-plugin-bootstrap3.git"
-    },
-    "licenses": [
-        {
-            "type": "Apache v2",
-            "url": "https://github.com/WuglyakBolgoink/less-plugin-bootstrap3/blob/master/LICENSE"
-        }
-    ],
-    "main": "lib/index.js",
-    "engines": {
-        "node": ">=0.4.2"
-    },
-    "dependencies": {
-        "bootstrap": "~3.3.2"
-    },
-    "devDependencies": {
-    },
-    "keywords": [
-        "less",
-        "prefixes",
-        "less plugins",
-        "less prefixes",
-        "bootstrap 3",
-        "bootstap",
-        "bootstap3",
-        "gulp"
-    ]
+  "name": "less-plugin-bootstrap3",
+  "version": "0.0.4",
+  "description": "Bootstrap 3 LESS import",
+  "homepage": "https://github.com/WuglyakBolgoink/less-plugin-bootstrap3/",
+  "author": {
+    "name": "Bass Jobsen"
+  },
+  "contributors": [
+    {
+      "name": "Wuglyak Bolgoink",
+      "email": "info@cyberkatze.de"
+    }
+  ],
+  "bugs": {
+    "url": "https://github.com/WuglyakBolgoink/less-plugin-bootstrap3/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/WuglyakBolgoink/less-plugin-bootstrap3.git"
+  },
+  "licenses": [
+    {
+      "type": "Apache v2",
+      "url": "https://github.com/WuglyakBolgoink/less-plugin-bootstrap3/blob/master/LICENSE"
+    }
+  ],
+  "main": "lib/index.js",
+  "engines": {
+    "node": ">=0.4.2"
+  },
+  "dependencies": {
+    "bootstrap": "~3.3.2"
+  },
+  "devDependencies": {},
+  "keywords": [
+    "less",
+    "prefixes",
+    "less plugins",
+    "less prefixes",
+    "bootstrap 3",
+    "bootstap",
+    "bootstap3",
+    "gulp"
+  ]
 }
