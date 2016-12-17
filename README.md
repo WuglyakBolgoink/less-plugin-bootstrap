@@ -1,6 +1,9 @@
 less-plugin-bootstrap3
 ========================
 
+[![license](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/WuglyakBolgoink/less-plugin-bootstrap3/blob/master/LICENSE)
+
+
 [![NPM](https://nodei.co/npm/less-plugin-bootstrap3.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/less-plugin-bootstrap3/)
 
 Imports [Bootstrap](http://getbootstrap.com) `LESS` code before your custom Less code.
