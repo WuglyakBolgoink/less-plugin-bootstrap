@@ -1,35 +1,11 @@
-less-plugin-bootstrap
+less-plugin-bootstrap3
 ========================
 
-Imports [Bootstrap](http://getbootstrap.com) Less code before your custom Less code.
+Imports [Bootstrap](http://getbootstrap.com) `LESS` code before your custom Less code.
 
-## lessc usage
+## Usage
 
-Install..
-
-Requires Less v2.4.0
-
-```
-npm install -g less-plugin-bootstrap
-```
-
-and then on the command line,
-
-```
-lessc file.less --bootstrap
-```
-
-to create Bootstrap compatible code run with the [Less autoprefix plugin](https://github.com/less/less-plugin-autoprefix):
-
-```
-lessc file.less --bootstrap --autoprefix="Android 2.3,Android >= 4,Chrome >= 20,Firefox >= 24,Explorer >= 8,iOS >= 6,Opera >= 12,Safari >= 6"
-```
-
-
-
-## Programmatic usage
-
-```
+```js
 var lessAutoprefixPlugin = new LessPluginAutoPrefix({
             browsers: [
                 'Android >= 4',
@@ -68,6 +44,12 @@ var lessAutoprefixPlugin = new LessPluginAutoPrefix({
     });
 ```
 
-## Browser usage
 
-Browser usage is not supported at this time.
+## Notes
+
+- This is fork from `bassjobsen/less-plugin-bootstrap`.
+
+
+## License
+
+[Apache License v2](https://github.com/WuglyakBolgoink/less-plugin-bootstrap3/blob/master/LICENSE)
