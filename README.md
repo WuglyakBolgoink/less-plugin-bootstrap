@@ -1,6 +1,8 @@
 less-plugin-bootstrap3
 ========================
 
+[![NPM](https://nodei.co/npm/less-plugin-bootstrap3.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/less-plugin-bootstrap3/)
+
 Imports [Bootstrap](http://getbootstrap.com) `LESS` code before your custom Less code.
 
 ## Usage
