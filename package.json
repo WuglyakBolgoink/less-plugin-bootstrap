@@ -30,7 +30,7 @@
     "node": ">=0.4.2"
   },
   "dependencies": {
-    "bootstrap": "~3.3.2"
+    "bootstrap": "~3.4.1"
   },
   "devDependencies": {},
   "keywords": [
